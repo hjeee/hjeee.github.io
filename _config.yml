@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Day Blog"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Love Yourself
 
 email: a-mail@mail.mail
 #blog logo
